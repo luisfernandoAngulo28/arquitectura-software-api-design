@@ -1,5 +1,14 @@
 # Arquitectura de Software - API Design
 
+## 🎓 PROYECTO FINAL - ARQUITECTURA DE SOFTWARE
+
+**Diplomado:** DIPLOMADO EN FULLSTACK DEVELOPER - BACK END Y FRONT END  
+**Módulo 3:** ARQUITECTURA DE SOFTWARE Y GESTIÓN DE REPOSITORIOS  
+**Docente:** Marco Antonio Avendaño Ajata  
+**Estudiante:** Angulo Heredia Luis Fernando  
+
+---
+
 ## 📋 Descripción del Proyecto
 
 Este repositorio contiene la documentación técnica del diseño de APIs REST y GraphQL para el sistema TeLoCompro, desarrollado como proyecto final del Módulo 3 de Arquitectura de Software.
@@ -106,10 +115,13 @@ Este proyecto fue creado con fines educativos.
 
 ## 👤 Autor
 
-**[Tu Nombre]**
-- Universidad: USIP
-- Módulo: 3 - Arquitectura de Software
-- Fecha: Febrero 2026
+**Angulo Heredia Luis Fernando**
+
+- **Universidad:** Universidad Salesiana de Bolivia (USIP)
+- **Diplomado:** Fullstack Developer - Back End y Front End
+- **Módulo:** 3 - Arquitectura de Software y Gestión de Repositorios
+- **Docente:** Marco Antonio Avendaño Ajata
+- **Fecha:** Febrero 2026
 
 ---
 
