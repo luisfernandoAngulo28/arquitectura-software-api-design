@@ -2,6 +2,7 @@
 
 ## 🎓 PROYECTO FINAL - ARQUITECTURA DE SOFTWARE
 
+**Universidad:** Universidad Simón I. Patiño - Escuela de Postgrado  
 **Diplomado:** DIPLOMADO EN FULLSTACK DEVELOPER - BACK END Y FRONT END  
 **Módulo 3:** ARQUITECTURA DE SOFTWARE Y GESTIÓN DE REPOSITORIOS  
 **Docente:** Marco Antonio Avendaño Ajata  
@@ -117,7 +118,7 @@ Este proyecto fue creado con fines educativos.
 
 **Angulo Heredia Luis Fernando**
 
-- **Universidad:** Universidad Salesiana de Bolivia (USIP)
+- **Universidad:** Universidad Simón I. Patiño (USIP) - Escuela de Postgrado
 - **Diplomado:** Fullstack Developer - Back End y Front End
 - **Módulo:** 3 - Arquitectura de Software y Gestión de Repositorios
 - **Docente:** Marco Antonio Avendaño Ajata
